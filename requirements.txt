@@ -1,0 +1,5 @@
+azure-functions
+xlrd
+pandas
+azure-identity
+azure-storage-file-datalake
